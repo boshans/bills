@@ -1,0 +1,6 @@
+BillsTracker - Personal Finance Tool
+Copyright © [Earthshine Studios] 2025
+
+This software is provided “as is”, without warranty of any kind.
+You may use, distribute, and modify it freely for personal use.
+Commercial redistribution is not permitted without permission.
